@@ -13,7 +13,7 @@
 									<li><a href="#"><i class="fa fa-map-marker"></i>Greet Labs Pvt Ltd - Workshala -Coworking space, Horamavu, Bangalore, KA</a></li>
 									<li><a href="#"><i class="fa fa-phone"></i>Contact Us- 9591 61 91 91</a></li>
 									<li><a href="#"><i class="fa fa-envelope-o"></i>Drop a query</a></li>
-									<li><a href="#"><i class="fa fa-github"></i>Ecom - Source Code</a></li>
+									<li><a href="https://github.com/narasimhareddyprostack/ecom-devops" target="_blank"><i class="fa fa-github"></i>Ecom - Source Code</a></li>
 								</ul>
 							</div>
 						</div>
